@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to derive mea
 - 📈 Exploring advanced Data Science concepts
 - 🤖 Diving into Machine Learning and AI
 
-## Check Out my Project on DataCAmp
-[Investigating Netflix movies](https://app.datacamp.com/workspace/w/12f08b43-a3ab-419d-8112-5e3bf18e1b4e/edit)
+## Check Out my Projects on DataCamp
+[Projects](https://github.com/NobleezIT/DataCamp-Projects)
 
 
 ## 📫 Let's Connect!
