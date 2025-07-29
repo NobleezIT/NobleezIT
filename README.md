@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to derive mea
 - 📈 Exploring advanced Data Science concepts
 - 🤖 Diving into Machine Learning and AI
 
-## Check Out my Projects on DataCamp
-[Projects](https://github.com/NobleezIT/DataCamp-Projects)
+## Check Out my Portfolio
+[Portfolio](https://portfolio-nine-inky-43.vercel.app/)
 
 
 ## 📫 Let's Connect!
